@@ -1,8 +1,10 @@
-# Friendly Fortnight project:
+
 
 
 
 ```markdown
+
+
 # Friendly Fortnight - Mawared HR Assistant 🤖
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
