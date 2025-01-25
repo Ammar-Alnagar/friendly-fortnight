@@ -1,0 +1,6 @@
+QDRANT_URL -> for knowledge base 
+QDRANT_API_KEY -> knowledge base access 
+HF_TOKEN -> using hf models and api
+OPENAPI_KEY -> using openai compatible models
+C_apikey -> using cerebras architecture 
+GEMINI. -> using google models
