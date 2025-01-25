@@ -5,10 +5,7 @@
 ```markdown
 
 
-# Friendly Fortnight - Mawared HR Assistant 🤖
-
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+# Friendly Fortnight - Mawared HR Assistant 
 A specialized AI assistant for Mawared HR System using RAG architecture with Qdrant vector storage and Google's Gemini model.
 
 ## Features ✨
