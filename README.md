@@ -99,9 +99,3 @@ Key features highlighted in the README:
 6. Contribution guidelines
 7. License information
 
-The requirements.txt includes all necessary dependencies with version ranges that work with the current implementation. You might want to:
-1. Add specific version numbers after testing
-2. Consider pinning versions for production use
-3. Add platform-specific requirements if needed
-
-Would you like me to explain any particular section in more detail or adjust the structure further?
