@@ -1,6 +1,5 @@
 # Friendly Fortnight project:
 
-**README.md**
 
 
 ```markdown
